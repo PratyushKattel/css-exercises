@@ -7,8 +7,13 @@
     font-size: 32px;
     font-weight: 20px;
 }
+
+.adj_font_24{
+    font-size: 24px;
+}
+
 .adj_bold{
-    color:greenyellow;
+    background-color:lime;;
     font-size: 24px;
     font-weight:bold;
 }
